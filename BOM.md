@@ -75,8 +75,8 @@ These parts are the same for both versions:
 | 20000maH 85W Power Bank | 1 | $42 | [Amazon](https://www.amazon.com/CUKTECH-20000mAh-Portable-Charging-External/dp/B0D3PMWN46/) | €50 | [Amazon](https://www.amazon.fr/CUKTECH-Batterie-Affichage-Numérique-Compatible/dp/B0D3PMWN46/) |
 | STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
 | USB-C Cable 2pcs (1feet/0.5 m) | 1 | $8 | [Amazon](https://www.amazon.com/INIU-2-Pack-iPhone-Samsung-MacBook/dp/B0D8QBHZSW/) | €7.6 | [Amazon](https://www.amazon.fr/SUNGUY-charge-rapide-MacBook-Samsung/dp/B0DNM89Q5P) |
-| USB-C To DC Cable | 1 | $8 | [Amazon](https://www.amazon.com/Tpenod-Charging-Charger-Bank-Output-Portable/dp/B0BJFKND59) | €8 | [Amazon](https://www.amazon.fr/CY-5-5-2-5mm-dextension-tablette-téléphone/dp/B0C9ZBC291) |
-| **Total** | | **$103** | | **€104.6** | |
+| USB-C To DC Cable | 1 | $8 | [Amazon](https://www.amazon.com/Tpenod-Charging-Charger-Bank-Output-Portable/dp/B0BJFKND59) | €12 | [Amazon](https://www.amazon.fr/dp/B0C58PVTYX) |
+| **Total** | | **$103** | | **€108.6** | |
 
 
 ### SO-100 2 Robot Arm Teleoperation Set (5V):
