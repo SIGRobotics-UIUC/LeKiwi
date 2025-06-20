@@ -56,6 +56,9 @@ We also provide the [URDF](./URDF/) exported from CAD for simulation.
 
 Join the project on LeRobot's [Discord server](https://discord.gg/Jtz5TJtb2u) (channel `mobile-so100-arm`)! Let us know if you have any questions, suggestions, or other feedback.
 
+## Check out our Dynamixel Version!
+We converted LeKiwi to use ROBOTIS components by using the Koch v1.1 arm, U2D2 motor controller, and Dynamixel XL430 motors for the mobile base.  [Dynamixel LeKiwi](DynamixelLeKiwi)
+
 ## Main Contributors
 Thank you to everyone who helped on the project!
 
