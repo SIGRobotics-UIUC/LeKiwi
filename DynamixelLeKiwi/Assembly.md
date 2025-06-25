@@ -8,28 +8,21 @@
 
 1. Attach the drive motor to the motor mount using 4 m2x5 tap screws.
 
-    <img src="../media/assembly_imgs/DSC00001.jpg" width="300" />
+    <img src="../media/assembly_imgs/IMG_9193.jpg" width="300" />
 
 2. Screw the drive motor mount onto the bottom base plate using 4 m3x12 machine screws.
 
-    <img src="../media/assembly_imgs/DSC00002.jpg" width="300" />
+    <img src="../media/assembly_imgs/IMG_9195.jpg" width="300" />
 
 3. Attach the wheel hub to the omniwheel using 2 m4x12 machine screws.
 
     <img src="../media/assembly_imgs/DSC00004.jpg" width="300" />
 
-4. Attach the servo horn to the wheel hub using 2 m3x16 machine screws.
+4. Attach the wheel hub to the servo horn using 4 m3x16 machine screws.
 
-    <img src="../media/assembly_imgs/DSC00005.jpg" width="300" />
-    <img src="../media/assembly_imgs/DSC00006.jpg" width="300" />
+    <img src="../media/assembly_imgs/IMG_9196.jpg" width="300" />
+    <img src="../media/assembly_imgs/IMG_9197.jpg" width="300" />
 
-5. Attach the servo horn to the drive motor using 1 m3x6 machine screw.
-
-    <img src="../media/assembly_imgs/DSC00003.jpg" width="300" />
-
-With all 3 modules attached to the bottom base plate:
-
-<img src="../media/assembly_imgs/DSC00007.jpg" width="350" /> <img src="../media/assembly_imgs/DSC00008.jpg" width="350" />
 
 ### 2. Bottom Plate Assembly
 1. Insert m3 nuts into the mounts for the servo controller and battery mounts. Screw both onto the bottom base plate with 4 m3x12 machine screws.
