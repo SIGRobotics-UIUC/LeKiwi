@@ -4,8 +4,8 @@ This page provides a complete list of parts needed to build the Dynamixel LeKiwi
 
 | Price| US  | EU  | CN |
 |---------|----:|----:|----:|
-| **Dynamixel LeKiwi** |  **$765.8**  |  **€1012.3**  |  **¥5687**  ||
-| **Base only** |  **$288.8**  |  **€339.3**  |  **¥1740**  |
+| **Dynamixel LeKiwi** |  **$797.47**  |  **€1035.3**  |  **¥5938**  ||
+| **Base only** |  **$320.47**  |  **€362.3**  |  **¥1991.28**  |
 
 
 > [!NOTE] 
@@ -50,8 +50,8 @@ This page provides a complete list of parts needed to build the Dynamixel LeKiwi
 | Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) | ￥3.50 |[Taobao](https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0 "https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0")|
 | 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) | ￥3.10 |[Taobao](https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE "https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE")|
 | 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | €9.99 | [Amazon](https://www.amazon.fr/Greluma-convertisseur-Adaptateur-dalimentation-Compatible/dp/B0D7VDL2X6) | ￥20 |[1688](https://qr.1688.com/s/Eb6ykv4y "https://qr.1688.com/s/Eb6ykv4y")                                      |
-| 12v ST3215 Feetech Servo | 3 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42)  | ￥110 |[Taobao](https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz "https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz")|
-| **Total** | | **$108.5** | | **€118.8** | | **￥426.60** | |
+| DYNAMIXEL XL430-W250-T | 3 | $27.00 | [ROBOTIS](https://www.robotis.us/dynamixel-xl430-w250-t/) | €23.16 | [ROBOTIS](https://www.robotis.us/dynamixel-xl430-w250-t/)  | ￥193.76 |[ROBOTIS](https://www.robotis.us/dynamixel-xl430-w250-t/)|
+| **Total** | | **$140.17** | | **€141.80** | | **￥677.88** | |
 
 
 ### Koch v1.1 2 Robot Arm Teleoperation Set 
