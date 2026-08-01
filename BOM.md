@@ -4,10 +4,10 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| US  | EU  | CN |
 |---------|----:|----:|----:|
-| **12V** |  **$482**  |  **€545.8**  |  **¥2891**  |
+| **12V** |  **$489**  |  **€552.4**  |  **¥2954.8**  |
 | **5V**  |  **$499**  |  **€526**  |  **¥2829**  |
 | **Base only (5V)** |  **$248**  |  **€295**  |  **¥1571**  |
-| **Base only (12V)** |  **$251.5**  |  **€307.8**  |  **¥1501**  |
+| **Base only (12V)** |  **$258.5**  |  **€314.4**  |  **¥1564.8**  |
 | **Base only  wired** |  **$184**  |  **€235**  | **¥963.9**  |
 
 > [!NOTE] 
@@ -50,9 +50,10 @@ These parts are the same for both 5V and 12V versions:
 | 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?) | €45.79 | [Amazon](https://www.amazon.fr/dp/B0D5QSMW21) | ￥70 |[Taobao](https://e.tb.cn/h.64IJNTnXwhn44BS?tk=PQQ8exkJEtR "https://e.tb.cn/h.64IJNTnXwhn44BS?tk=PQQ8exkJEtR")|
 | Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) | ￥3.50 |[Taobao](https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0 "https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0")|
 | 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) | ￥3.10 |[Taobao](https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE "https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE")|
-| 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | €9.99 | [Amazon](https://www.amazon.fr/Greluma-convertisseur-Adaptateur-dalimentation-Compatible/dp/B0D7VDL2X6) | ￥20 |[1688](https://qr.1688.com/s/Eb6ykv4y "https://qr.1688.com/s/Eb6ykv4y")                                      |
+| Raspberry Pi 5 power board (6-24V input, 5V/5A output) | 1 | $9 | [Yahboom](https://category.yahboom.net/products/power-board-pi5) | €9 | [Yahboom](https://category.yahboom.net/products/power-board-pi5) | ￥65 | [Yahboom](https://category.yahboom.net/products/power-board-pi5) |
+| USB-C to USB-C cable (5A, e-marked, 0.5m) | 1 | $8 | [Amazon](https://www.amazon.com/INIU-2-Pack-iPhone-Samsung-MacBook/dp/B0D8QBHZSW/) | €7.60 | [Amazon](https://www.amazon.fr/SUNGUY-charge-rapide-MacBook-Samsung/dp/B0DNM89Q5P) | ￥18.80 | [Taobao](https://e.tb.cn/h.6R5fJaBv1I46QUx?tk=2b5IV1XKMq7) |
 | 12v ST3215 Feetech Servo | 3 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42)  | ￥110 |[Taobao](https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz "https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz")|
-| **Total** | | **$108.5** | | **€118.8** | | **￥426.60** | |
+| **Total** | | **$115.5** | | **€125.4** | | **￥490.40** | |
 
 
 ### SO-101 2 Robot Arm Teleoperation Set (12V):

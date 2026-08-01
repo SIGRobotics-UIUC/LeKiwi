@@ -39,10 +39,28 @@ With all 3 modules attached to the bottom base plate:
 
     <img src="media/assembly_imgs/IMG_1927.jpg" width="400" />
 3. Wiring Electronics
-   - For the **12V version**: 
-   Use the wago lever connectors to connect the ground and power battery wire leads to the leads of the 12v->5v converter and the dc barrel plug adapter. Screw on the 12v to 5v converter to the bottom base plate with 2 m3x16 machine screws and 2 m3 nuts.
+   - For the **12V version**:
+   Disconnect the battery before working on the power wiring. Print the [Pi 5 power board adapter](3DPrintMeshes/pi5_power_board_adapter.stl), and mount it in the lower-right electronics bay using four M3x16 screws and four M3 nuts. The adapter uses the base-plate grid holes at `(40,-60)`, `(40,-20)`, `(80,-60)`, and `(80,-20)` mm in the STL coordinate system. Attach the power board to the adapter's 58x49mm hole pattern using its included M2.5 hardware. Keep the screw terminal and USB-C output facing toward the center of the robot.
 
-        <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="400" />
+   Use the Wago lever connectors to split the battery positive and ground leads between the servo power circuit, DC barrel plug adapter, and Pi 5 power board. Connect the power-board branch to the `+` and `-` screw-terminal inputs, checking polarity before reconnecting the battery. Connect the board's USB-C output to the Raspberry Pi 5 with the 0.5m, e-marked 5A USB-C cable. Do not use a USB-A cable for this connection.
+
+   The board requires at least 7V input for its full 5V/5A output, so it must connect to the 12V battery branch rather than a regulated 5V rail. After booting the Pi, check that the negotiated current is 5000mA and that no undervoltage event is reported:
+
+   ```bash
+   od -An -tu4 --endian=big /proc/device-tree/chosen/power/max_current
+   vcgencmd get_throttled
+   ```
+
+   The expected outputs are `5000` and `throttled=0x0`. Do not force `usb_max_current_enable=1` to hide a cable or power-board problem.
+
+   ```mermaid
+   flowchart LR
+       battery[12V battery] --> split[Wago split]
+       split --> servos[12V servo circuit]
+       split --> barrel[DC barrel adapter]
+       split --> board[Pi 5 power board]
+       board -->|5V/5A e-marked USB-C cable| pi[Raspberry Pi 5]
+   ```
 
     - For the **5V version**: you can use the powerbamk holder to keep the powerbank in place `3DPrintMeshes/5v_specific/5v_power_bank_holder.stl`. The powerbank can be mounted in the back on the lower plate.
 
