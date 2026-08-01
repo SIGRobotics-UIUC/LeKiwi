@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <robot name="LeKiwi">
+    <link name="base_footprint" />
+    <link name="base_link" />
     <link name="base_plate_layer1-v5">
         <inertial>
             <origin xyz="-4.730687660675253e-15 -2.7155537377808555e-05 -0.0035000000000000005" rpy="0.0 0.0 0.0" />
@@ -855,6 +857,16 @@
             </geometry>
         </collision>
     </link>
+    <joint name="base_footprint_to_base_link" type="fixed">
+        <origin xyz="0.0 0.0 0.032937" rpy="0.0 0.0 0.0" />
+        <parent link="base_footprint" />
+        <child link="base_link" />
+    </joint>
+    <joint name="base_link_to_base_plate" type="fixed">
+        <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 -1.5707963267948966" />
+        <parent link="base_link" />
+        <child link="base_plate_layer1-v5" />
+    </joint>
     <joint name="base_plate_layer1-v5_baseplate2bottom_mount" type="fixed">
         <origin xyz="-0.02 -0.1 0.0" rpy="3.141592653589793 -0.0 0.0" />
         <parent link="base_plate_layer1-v5" />
